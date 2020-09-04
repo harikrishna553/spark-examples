@@ -1,0 +1,7 @@
+1 User logged in successfully
+2 User logged out
+1 User created new environment e1
+3 User logged in successfully
+3 User added new team member 5 to the team T2
+3 User deleted environment e6
+1 User logged off successfully

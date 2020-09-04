@@ -1,0 +1,6 @@
+India,IN
+Canada,CA
+America,AM
+China,CH
+Hongkong,HO
+Dubai,DU
